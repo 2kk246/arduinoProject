@@ -1,0 +1,7 @@
+
+5   0   13   14
+in1 in2 in3 in4
+
+
+Stepper my_Stepper(stepsPerRevolution, 13, 0, 14, 5); //node mcu
+Stepper my_Stepper(stepsPerRevolution, 14, 5, 12, 4); //wemos mini
