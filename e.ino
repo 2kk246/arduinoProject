@@ -7,8 +7,8 @@ int stepsPerRevolution = 2048;
 Stepper my_Stepper(stepsPerRevolution, 13, 0, 14, 5); //node mcu
 
 char auth[] = "RAHzBLpIpT_0lyonQtxi4gMh6g5wZvfl";
-char ssid[] = "핫스파아앗";
-char pass[] = "11223344";
+char ssid[] = "WIFI_NAME";
+char pass[] = "PASSWORD";
 
 int t_angle;
 int n_angle;
